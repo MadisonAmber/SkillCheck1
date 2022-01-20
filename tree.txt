@@ -1,0 +1,7 @@
+/var/www/html
+├── index.html
+├── pages
+│   └── page2.html
+└── tree.txt
+
+1 directory, 3 files
