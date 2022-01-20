@@ -1,0 +1,26 @@
+/var/www/html
+├── assets
+│   ├── favicon.ico
+│   └── img
+│       ├── avataaars.svg
+│       └── portfolio
+│           ├── cabin.png
+│           ├── cake.png
+│           ├── circus.png
+│           ├── game.png
+│           ├── safe.png
+│           └── submarine.png
+├── css
+│   ├── style.css
+│   └── styles.css
+├── index.html
+├── js
+│   └── scripts.js
+├── pages
+│   ├── extra.html
+│   ├── page2.html
+│   ├── tree.html
+│   └── tree.txt
+└── tree1.txt
+
+6 directories, 17 files
